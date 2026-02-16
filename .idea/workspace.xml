@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="221a7741-a166-4816-9fed-2049fda1893d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="35ukghCBcxlPQwxyvt2H3qhlNuB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cucumber Java.Feature: CameraManagement.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: Dashboard.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: DriverManagement.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: ForgotPassword.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: InvalidLogin.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: Login.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: PPE.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: Register.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: SystemOperatorsManagement.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: VehicleAssignment.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: WareHouseManagement.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: :Verify if user can click Next and Previous.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Add a new driver.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: As a user I want to login to Phepha to view the PPE Live Monitoring feed.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: As a user i want to click on camera management.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Verify if the user can Edit the drivers details.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Verify if the user can add a warehouse.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Verify if the user can edit a warehouse.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Verify if the user can search the driver.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Verify if user can delete driver.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: if the user can delete a warehouse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestRunnerTest.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/CecilMkhari(LubanziA/Desktop/Test%20Automation&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.TestRunnerTest">
+    <configuration name="Feature: CameraManagement" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="7" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/CameraManagement.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="PhephaAutomation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin teamcity" />
+      <option name="SUGGESTED_NAME" value="Feature: CameraManagement" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: DriverManagement" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="7" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/DriverManagement.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="PhephaAutomation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin teamcity" />
+      <option name="SUGGESTED_NAME" value="Feature: DriverManagement" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: SystemOperatorsManagement" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="7" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/SystemOperatorsManagement.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="PhephaAutomation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin teamcity" />
+      <option name="SUGGESTED_NAME" value="Feature: SystemOperatorsManagement" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: WareHouseManagement" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="7" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/WareHouseManagement.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="PhephaAutomation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin teamcity" />
+      <option name="SUGGESTED_NAME" value="Feature: WareHouseManagement" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PhephaAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.testRunner" />
+      <option name="MAIN_CLASS_NAME" value="com.example.testRunner.TestRunnerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Test%20Automation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Test%20Automation" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunnerTest" />
+        <item itemvalue="Cucumber Java.Feature: DriverManagement" />
+        <item itemvalue="Cucumber Java.Feature: SystemOperatorsManagement" />
+        <item itemvalue="Cucumber Java.Feature: WareHouseManagement" />
+        <item itemvalue="Cucumber Java.Feature: CameraManagement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="221a7741-a166-4816-9fed-2049fda1893d" name="Changes" comment="" />
+      <created>1763967457935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763967457935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Test_20Automation$TestRunnerTest.ic" NAME="TestRunnerTest Coverage Results" MODIFIED="1764713480724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.example.testRunner.*</FILTER>
+    </SUITE>
+  </component>
+</project>
