@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221a7741-a166-4816-9fed-2049fda1893d" name="Changes" comment="" />
+    <list default="true" id="221a7741-a166-4816-9fed-2049fda1893d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,39 +30,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Cucumber Java.Feature: CameraManagement.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: Dashboard.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: DriverManagement.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: ForgotPassword.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: InvalidLogin.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: Login.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: PPE.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: Register.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: SystemOperatorsManagement.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: VehicleAssignment.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: WareHouseManagement.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: :Verify if user can click Next and Previous.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Add a new driver.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: As a user I want to login to Phepha to view the PPE Live Monitoring feed.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: As a user i want to click on camera management.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Verify if the user can Edit the drivers details.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Verify if the user can add a warehouse.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Verify if the user can edit a warehouse.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Verify if the user can search the driver.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Verify if user can delete driver.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: if the user can delete a warehouse.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestRunnerTest.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/CecilMkhari(LubanziA/Desktop/Test%20Automation&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: CameraManagement.executor": "Run",
+    "Cucumber Java.Feature: Dashboard.executor": "Run",
+    "Cucumber Java.Feature: DriverManagement.executor": "Run",
+    "Cucumber Java.Feature: ForgotPassword.executor": "Run",
+    "Cucumber Java.Feature: InvalidLogin.executor": "Run",
+    "Cucumber Java.Feature: Login.executor": "Run",
+    "Cucumber Java.Feature: PPE.executor": "Run",
+    "Cucumber Java.Feature: Register.executor": "Run",
+    "Cucumber Java.Feature: SystemOperatorsManagement.executor": "Run",
+    "Cucumber Java.Feature: VehicleAssignment.executor": "Run",
+    "Cucumber Java.Feature: WareHouseManagement.executor": "Run",
+    "Cucumber Java.Scenario: :Verify if user can click Next and Previous.executor": "Run",
+    "Cucumber Java.Scenario: Add a new driver.executor": "Run",
+    "Cucumber Java.Scenario: As a user I want to login to Phepha to view the PPE Live Monitoring feed.executor": "Run",
+    "Cucumber Java.Scenario: As a user i want to click on camera management.executor": "Run",
+    "Cucumber Java.Scenario: Verify if the user can Edit the drivers details.executor": "Run",
+    "Cucumber Java.Scenario: Verify if the user can add a warehouse.executor": "Run",
+    "Cucumber Java.Scenario: Verify if the user can edit a warehouse.executor": "Run",
+    "Cucumber Java.Scenario: Verify if the user can search the driver.executor": "Run",
+    "Cucumber Java.Scenario: Verify if user can delete driver.executor": "Run",
+    "Cucumber Java.Scenario: if the user can delete a warehouse.executor": "Run",
+    "JUnit.TestRunnerTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/CecilMkhari(LubanziA/Desktop/Test%20Automation",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="JUnit.TestRunnerTest">
     <configuration name="Feature: CameraManagement" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="7" />
